@@ -2,3 +2,7 @@
 ## Simulate the below block diagram by using MATLAB
 
 ![blockdiagram](./blockdiagram.png)
+
+
+### Result figure
+![totalfigure](./totalfigure.png)
